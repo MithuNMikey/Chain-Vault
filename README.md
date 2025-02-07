@@ -6,4 +6,4 @@ Blockchain Drive is a decentralized platform that revolutionizes digital asset m
 ![Screenshot 2025-02-07 220125](https://github.com/user-attachments/assets/c86b5e88-1e1d-4362-bc06-cb2b6db85854)
 ![Screenshot 2025-02-07 220152](https://github.com/user-attachments/assets/378a5938-05be-4e6b-a16e-0ab8111e16d7)
 ![Screenshot 2025-02-07 220417](https://github.com/user-attachments/assets/c6418977-51c0-4fe8-98f7-3330d904a35a)
-![Screenshot 2025-02-07 220417](https://github.com/user-attachments/assets/a36e045f-e65d-4c13-ae03-e53a55836b8c)
+
